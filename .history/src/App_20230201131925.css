@@ -1,0 +1,22 @@
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 70vw;
+  margin-top: 1rem;
+  padding: 1rem 4rem;
+  border: 1px solid rgb(230, 230, 230);
+}
+
+  .logo{
+    font-family: 'Texturina', sans-serif;
+  }
+
+  .light{
+  height: 20px;
+  width: 20px;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgb(230, 230, 230);;
+  border-radius: 50%;
+  display: inline-block;
+  }

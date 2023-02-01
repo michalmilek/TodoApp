@@ -1,0 +1,13 @@
+header{
+  display: flex;
+}
+
+  .logo{
+    font-family: 'Texturina', sans-serif;
+  }
+
+  .light{
+    border-radius: 50%;
+    border: 2px solid rgb(173, 173, 173);
+    background: #fff;
+  }
